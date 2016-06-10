@@ -1,0 +1,2 @@
+echo by!;
+echo goodby!;
